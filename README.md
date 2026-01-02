@@ -125,6 +125,7 @@ These steps ensure the data is **analysis-ready** before generating insights.
 ## 👤 Author
 
 **Tejeshwar R**
+
 Data Analyst | SQL | Power BI | Python | Excel  |  Statistics
 
 This project is intended for educational and portfolio purposes only.
